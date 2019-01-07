@@ -1,6 +1,6 @@
 package indi.hiro.common.ds.primitive;
 
-import indi.hiro.common.codec.huffman.HuffmanTreeNode;
+import indi.hiro.common.codec.compression.HuffmanTreeNode;
 import indi.hiro.common.ds.generic.Entry;
 
 import java.util.ArrayList;

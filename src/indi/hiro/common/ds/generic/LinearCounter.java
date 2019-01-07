@@ -1,8 +1,7 @@
 package indi.hiro.common.ds.generic;
 
-import indi.hiro.common.codec.arithmetic.ArithmeticSequence;
-import indi.hiro.common.codec.huffman.HuffmanTreeNode;
-import indi.hiro.common.ds.primitive.CharCounter;
+import indi.hiro.common.codec.compression.ArithmeticSequence;
+import indi.hiro.common.codec.compression.HuffmanTreeNode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
