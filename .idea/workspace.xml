@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb2a8e7b-efd3-4df7-b09d-a7114dda024e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/BadDictionaryException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/CodeCorruptedException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/CodecTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/SymbolNotFoundException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/arithmetic/ArithmeticSequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/huffman/AdaptiveHuffmanTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/huffman/ExtendedHuffmanData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/huffman/ExtendedHuffmanDataConsumer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/huffman/HuffmanTable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/huffman/HuffmanTree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/huffman/HuffmanTreeNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/huffman/InitialCodeAssignment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/lzw/CompressionDictionary.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/lzw/DecompressionDictionary.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/mm/AcDct.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/indi/hiro/common/codec/mm/DctQuiz.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/indi/hiro/common/ds/generic/LinearCounter.java" afterPath="$PROJECT_DIR$/src/indi/hiro/common/ds/generic/LinearCounter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/indi/hiro/common/ds/primitive/ByteCounter.java" afterPath="$PROJECT_DIR$/src/indi/hiro/common/ds/primitive/ByteCounter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/indi/hiro/common/ds/theoretical/InformationEntropy.java" afterPath="$PROJECT_DIR$/src/indi/hiro/common/ds/theoretical/InformationEntropy.java" />
-    </list>
+    <list default="true" id="eb2a8e7b-efd3-4df7-b09d-a7114dda024e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +12,20 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="CodecTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/indi/hiro/common/codec/compression/CodecTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1701">
+              <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -88,94 +79,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theoretical" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="compression" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -467,11 +370,19 @@
       <option name="project" value="LOCAL" />
       <updated>1545029051355</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cp">
+      <created>1546856876253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546856876253</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="46" width="1853" height="968" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -508,7 +419,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="s" />
-    <option name="LAST_COMMIT_MESSAGE" value="s" />
+    <MESSAGE value="cp" />
+    <option name="LAST_COMMIT_MESSAGE" value="cp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -566,16 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/indi/hiro/common/codec/compression/CodecTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/indi/hiro/common/ds/primitive/ByteCounter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2140">
@@ -591,6 +493,16 @@
         <state relative-caret-position="153">
           <caret line="152" column="5" lean-forward="true" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indi/hiro/common/codec/compression/CodecTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
