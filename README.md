@@ -1,2 +1,2 @@
 # mmc
-Main class : indi.hiro.common.codec.CodecTest
+Main class : indi.hiro.common.codec.compression.CodecTest
